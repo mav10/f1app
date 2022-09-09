@@ -1,4 +1,4 @@
-# ![app icon](./F1PilotsApp/ios/F1PilotsApp/Images.xcassets/AppIcon.appiconset/icon-29@1x.png) F1 Pilots App
+# ![app icon](./F1PilotsApp/ios/F1PilotsApp/Images.xcassets/AppIcon.appiconset/Icon-App-29x29@1x.png) F1 Pilots App
 
 ## Introduction
 Requests and renders pilots of F1 from ergast.com API. This is a small app to demonstrate how to work with external API service.
